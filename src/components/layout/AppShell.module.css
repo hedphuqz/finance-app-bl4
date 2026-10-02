@@ -1,0 +1,38 @@
+.shell {
+  min-height: 100vh;
+  background: #f7f8fa;
+  font-family: -apple-system, 'Segoe UI', system-ui, sans-serif;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 24px;
+  background: #1f2328;
+  color: #ffffff;
+}
+
+.logo {
+  font-size: 22px;
+  line-height: 1;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+  color: #ffffff;
+}
+
+.subtitle {
+  font-size: 13px;
+  color: #8b949e;
+  margin-left: 4px;
+}
+
+.main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 28px 24px;
+}
